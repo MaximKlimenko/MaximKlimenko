@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Yandex**
 
-- 🌱 I’m currently looking **for a job**
+- 🌱 I’m currently looking for a job
 
 - 📫 How to reach me **max.klim59@gmail.com**
 
