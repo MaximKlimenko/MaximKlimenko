@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, my name is Maxim</h1>
 <h3 align="center">A backend Golang developer from Russia</h3>
 
-- 🔭 I’m currently working on **Yandex**
-
-- 🌱 I’m currently looking for a job
+- 🔭 I’m currently looking for a job
 
 - 📫 How to reach me **max.klim59@gmail.com**
 
